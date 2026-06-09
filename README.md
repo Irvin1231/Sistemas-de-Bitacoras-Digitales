@@ -26,3 +26,23 @@ Desarrollar una solución digital para la gestión, administración y creación 
 * Microsoft Teams
 * Microsoft 365
 
+# Funciones Principales
+
+* Registro de bitácoras operativas.
+* Registro de mantenimientos preventivos.
+* Registro de mantenimientos correctivos.
+* Consulta de registros históricos.
+* Almacenamiento centralizado de información.
+* Seguimiento de actividades del área de TI.
+* Gestión digital de bitácoras.
+
+# Flujo de Trabajo
+
+- Ingresar a Microsoft Teams
+- Seleccionar canal
+- Abrir aplicacion
+- Selecciona bitacora a realziar
+- Captura la información
+- Guarda el registro
+- Información almacenada en SharePoint
+- Consulta de registros históricos
