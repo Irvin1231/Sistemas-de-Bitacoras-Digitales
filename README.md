@@ -54,3 +54,7 @@ Gracias a la implementación de esta solución se logró digitalizar la gestión
 La centralización de la información en SharePoint permitió consultar de manera más segura y rápida los registros históricos, facilitando el acceso y seguimiento de actividades, mantenimientos preventivos y correctivos, así como la localización de información cuando es requerida y teniendo evidencia del trabajo realizado.
 
 Asimismo, la implementación ayudó a mejorar el control y organización de las tareas del área de TI, reduciendo riesgos de pérdida o deterioro de información y proporcionando un acceso más eficiente a los registros almacenados.
+
+# Menu de Bitacoras
+
+![Menu Bitacoras](img/Menubitacoras.png)
