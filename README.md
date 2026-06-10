@@ -58,3 +58,11 @@ Asimismo, la implementación ayudó a mejorar el control y organización de las 
 # Menu de Bitacoras
 
 ![Menu Bitacoras](img/Menubitacoras.png)
+
+# Creación de bitacoras
+
+![Menu Bitacoras](img/Bitacora.png)
+
+# Historial de Bitacoras
+
+![Menu Bitacoras](img/HistorialBitacora.png)
