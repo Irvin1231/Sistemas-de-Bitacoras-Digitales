@@ -46,3 +46,11 @@ Desarrollar una solución digital para la gestión, administración y creación 
 - Guarda el registro
 - Información almacenada en SharePoint
 - Consulta de registros históricos
+
+# Resultados Obtenidos
+
+Gracias a la implementación de esta solución se logró digitalizar la gestión de bitácoras de mantenimiento y operación del área de TI, eliminando la dependencia de los formatos físicos y mejorando el registro de actividades realizadas.
+
+La centralización de la información en SharePoint permitió consultar de manera más segura y rápida los registros históricos, facilitando el acceso y seguimiento de actividades, mantenimientos preventivos y correctivos, así como la localización de información cuando es requerida y teniendo evidencia del trabajo realizado.
+
+Asimismo, la implementación ayudó a mejorar el control y organización de las tareas del área de TI, reduciendo riesgos de pérdida o deterioro de información y proporcionando un acceso más eficiente a los registros almacenados.
